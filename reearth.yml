@@ -1,0 +1,51 @@
+id: reearth-plugin-street-view
+name: Street View
+version: 1.0.0
+extensions:
+  - id: street-view-block
+    type: block
+    name: Street View
+    schema:
+      groups:
+        - id: settings
+          title: Settings
+          fields:
+            - id: googleApi
+              type: string
+              title: Google API
+            - id: povHeading
+              type: number
+              title: Heading
+              defaultValue: 140
+            - id: povPitch
+              type: number
+              title: Pitch
+              defaultValue: 10
+            - id: moveOnReearth
+              type: bool
+              title: Move On Reearth
+              defaultValue: false
+  - id: street-view-widget
+    type: widget
+    name: Street View
+    schema:
+      groups:
+        - id: settings
+          title: Settings
+          fields:
+            - id: googleApi
+              type: string
+              title: Google API
+        - id: fileList
+          title: Route File
+          list: true
+          fields:
+            - id: url
+              type: url
+              title: File
+              ui: file
+            - id: title
+              title: Title
+              type: string
+            
+            
