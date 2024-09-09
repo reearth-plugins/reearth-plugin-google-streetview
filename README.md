@@ -128,7 +128,7 @@
 
 ---
 
-# Street View Plugin
+# Street View
 
 <img width="1383" src="src/thumbnail1.png">
 
