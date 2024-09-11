@@ -1,4 +1,4 @@
-id: reearth-plugin-street-view
+id: reearth-plugin-google-street-view
 name: Google Street View
 version: 1.0.0
 extensions:
