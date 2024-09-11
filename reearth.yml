@@ -1,5 +1,5 @@
 id: reearth-plugin-street-view
-name: Street View
+name: Google Street View
 version: 1.0.1
 extensions:
   - id: street-view-block
