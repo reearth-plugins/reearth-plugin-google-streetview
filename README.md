@@ -1,7 +1,7 @@
  > **English text is below**
 
 # Google Street View
-<img src="https://raw.githubusercontent.com/reearth-plugins/reearth-plugin-google-streetview/main/src/thumbnail1.png">
+![thumbnail1](https://raw.githubusercontent.com/reearth-plugins/reearth-plugin-google-streetview/main/src/thumbnail1.png)
 
 ## このプラグインについて
 
@@ -130,7 +130,7 @@
 
 # Google Street View
 
-<img src="https://raw.githubusercontent.com/reearth-plugins/reearth-plugin-google-streetview/main/src/thumbnail1.png">
+![thumbnail1](https://raw.githubusercontent.com/reearth-plugins/reearth-plugin-google-streetview/main/src/thumbnail1.png)
 
 
 ## About this plugin
