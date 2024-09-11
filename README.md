@@ -1,6 +1,6 @@
  > **English text is below**
 
-# Street View
+# Google Street View
 <img src="https://raw.githubusercontent.com/reearth-plugins/reearth-plugin-streetview/main/src/thumbnail1.png">
 
 ## このプラグインについて
@@ -128,14 +128,14 @@
 
 ---
 
-# Street View
+# Google Street View
 
 <img src="https://raw.githubusercontent.com/reearth-plugins/reearth-plugin-streetview/main/src/thumbnail1.png">
 
 
 ## About this plugin
 
--  Displays images acquired from Google Street View. Street View images can be displayed sequentially along a pre-designated route. You can also click a marker to display images acquired by Street View in the infobox
+-  Displays images acquired from Google Google Street View. Google Street View images can be displayed sequentially along a pre-designated route. You can also click a marker to display images acquired by Google Street View in the infobox
 　
 ## How to use
 
@@ -143,7 +143,7 @@
 
 - API key
 
-  Set a key to use Google Street View API.
+  Set a key to use Google Google Street View API.
   
   ![](src/img1.png)
 
@@ -187,17 +187,17 @@
 ### How to operate
 - Route Creation and Playback
 
-     Create a route to display Street View. There are two ways to create a route: manually or by loading a pre-created route.
+     Create a route to display Google Street View. There are two ways to create a route: manually or by loading a pre-created route.
 
      - Manual route creation
 
-          Select “Drawing” as the route creation method to enter manual route creation mode. Click the “Drawing” button to start route creation. In this state, click the left mouse button along the route you wish to display to create the route. Click the “Finish” button to exit the drawing mode, or click the “Start” button to display the Street View along the route you have created.
+          Select “Drawing” as the route creation method to enter manual route creation mode. Click the “Drawing” button to start route creation. In this state, click the left mouse button along the route you wish to display to create the route. Click the “Finish” button to exit the drawing mode, or click the “Start” button to display the Google Street View along the route you have created.
 
           ![](src/img10.png) 
 
      - Use pre-created route file method
         
-          Select “Upload a file” as the route creation method and select the route file you have previously created. After loading the file, click the “Start” button to move the camera to the starting position of the loaded route and display Street View along the route. The route search plug-in is available for creating route files.
+          Select “Upload a file” as the route creation method and select the route file you have previously created. After loading the file, click the “Start” button to move the camera to the starting position of the loaded route and display Google Street View along the route. The route search plug-in is available for creating route files.
 
           ![](src/img11.png)
 
